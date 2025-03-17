@@ -1,4 +1,3 @@
-import React from "react";
 import { useAppDispatch } from "../../app/hooks";
 import { setStage } from "../../features/chargerStageSlice";
 interface Props {

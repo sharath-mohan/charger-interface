@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from "react";
+import { useEffect, useState } from "react";
 import { useAppDispatch } from "../../app/hooks";
 import { setStage } from "../../features/chargerStageSlice";
 import Stats from "../../components/Stats";

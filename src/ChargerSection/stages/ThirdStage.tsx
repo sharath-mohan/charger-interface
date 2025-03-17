@@ -1,4 +1,3 @@
-import React from "react";
 import { useAppDispatch, useAppSelector } from "../../app/hooks";
 import { setStage } from "../../features/chargerStageSlice";
 import Vendor from "../../components/Vendor";

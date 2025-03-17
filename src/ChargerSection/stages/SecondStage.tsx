@@ -1,4 +1,3 @@
-import React from "react";
 import { useAppDispatch } from "../../app/hooks";
 import { setOption } from "../../features/chargeOptionSlice";
 import { setStage } from "../../features/chargerStageSlice";
